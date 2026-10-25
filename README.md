@@ -1,4 +1,4 @@
-# Biohub Cell Tracking Pipeline (v7)
+# Biohub Cell Tracking Pipeline
 
 **End-to-end pipeline for 3D+time cell detection, linking, division inference, and lineage reconstruction**  
 **Competition**: [Biohub – Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development) (Kaggle)
